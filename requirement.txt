@@ -4,5 +4,6 @@ required packages  ;  numpy,pandas,matplotlib(pyplot scripting layer),scikit lea
 installation of streamlit 
 we can install streamlit by using pip 
 1)go to the command prompt and type the below command on commandline 
-    pip install streamlit
+   
+   pip install streamlit
 
