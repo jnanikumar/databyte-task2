@@ -1,0 +1,8 @@
+# databyte-task2
+topic4 iris data model development
+required packages  ;  numpy,pandas,matplotlib(pyplot scripting layer),scikit learn ,streamlit
+installation of streamlit 
+we can install streamlit by using pip 
+1)go to the command prompt and type the below command on commandline 
+    pip install streamlit
+
